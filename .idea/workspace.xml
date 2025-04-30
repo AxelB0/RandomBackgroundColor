@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eca3dde4-48c9-4060-bae4-323efa5d78e6" name="Changes" comment="Random color background on refresh" />
+    <list default="true" id="eca3dde4-48c9-4060-bae4-323efa5d78e6" name="Changes" comment="refactor for deployment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AxelB0"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/AxelB0/RandomBackgroundColor.git",
@@ -66,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745997707496</updated>
-      <workItem from="1745997708566" duration="2344000" />
+      <workItem from="1745997708566" duration="3207000" />
     </task>
     <task id="LOCAL-00001" summary="Random color background on refresh">
       <option name="closed" value="true" />
@@ -76,7 +82,23 @@
       <option name="project" value="LOCAL" />
       <updated>1745999890046</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="refactor for deployment">
+      <option name="closed" value="true" />
+      <created>1746000252762</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746000252762</updated>
+    </task>
+    <task id="LOCAL-00003" summary="refactor for deployment">
+      <option name="closed" value="true" />
+      <created>1746000260108</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746000260109</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Random color background on refresh" />
-    <option name="LAST_COMMIT_MESSAGE" value="Random color background on refresh" />
+    <MESSAGE value="refactor for deployment" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor for deployment" />
   </component>
 </project>
