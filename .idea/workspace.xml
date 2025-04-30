@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eca3dde4-48c9-4060-bae4-323efa5d78e6" name="Changes" comment="refactor for deployment" />
+    <list default="true" id="eca3dde4-48c9-4060-bae4-323efa5d78e6" name="Changes" comment="added loop in newColorHex function">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheet.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "JavaScript Debug.html.html.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Node.js.index.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -72,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745997707496</updated>
-      <workItem from="1745997708566" duration="3207000" />
+      <workItem from="1745997708566" duration="3836000" />
     </task>
     <task id="LOCAL-00001" summary="Random color background on refresh">
       <option name="closed" value="true" />
@@ -98,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746000260109</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added loop in newColorHex function">
+      <option name="closed" value="true" />
+      <created>1746003912493</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746003912493</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +119,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Random color background on refresh" />
     <MESSAGE value="refactor for deployment" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor for deployment" />
+    <MESSAGE value="added loop in newColorHex function" />
+    <option name="LAST_COMMIT_MESSAGE" value="added loop in newColorHex function" />
   </component>
 </project>
